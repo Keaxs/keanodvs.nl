@@ -1,0 +1,19 @@
+#background_index{
+    background-color: #e3a96b;
+}
+.navbar-nav .nav-link {
+    font-size: 1.4rem; /* Pas de gewenste tekstgrootte aan */
+}
+.navbar-brand {
+    font-size: 2rem; /* Pas de gewenste tekstgrootte aan */
+}
+
+.navbar-nav .nav-link{
+    color: white;
+}
+.navbar-nav .nav-link.active {
+    color: #ff8400; /* Rode kleur voor de actieve link, pas indien nodig aan */
+}
+.navbar-nav .nav-link:hover{
+    color: #ff8400;
+}
