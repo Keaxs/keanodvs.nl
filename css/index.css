@@ -1,4 +1,4 @@
-#background_index{
+.background_index{
     background-color: #3C3C3C;
 }
 .navbar-nav .nav-link {
@@ -28,6 +28,6 @@
     font-weight: 800;
     z-index: 1;
 }
-#contact_index{
+.contact_index{
     border-top: 1px solid darkgray;
 }
