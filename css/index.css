@@ -1,19 +1,33 @@
 #background_index{
-    background-color: #e3a96b;
+    background-color: #3C3C3C;
 }
 .navbar-nav .nav-link {
-    font-size: 1.4rem; /* Pas de gewenste tekstgrootte aan */
+    font-size: 1.4rem;
 }
 .navbar-brand {
-    font-size: 2rem; /* Pas de gewenste tekstgrootte aan */
+    font-size: 2rem;
 }
 
 .navbar-nav .nav-link{
     color: white;
 }
 .navbar-nav .nav-link.active {
-    color: #ff8400; /* Rode kleur voor de actieve link, pas indien nodig aan */
+    color: #dc3545;;
 }
 .navbar-nav .nav-link:hover{
-    color: #ff8400;
+    color: #dc3545;;
+}
+
+#footer_index{
+    display: flex;
+    justify-content: center;
+    
+}
+#typewriter{
+    font-size: 4rem;
+    font-weight: 800;
+    z-index: 1;
+}
+#contact_index{
+    border-top: 1px solid darkgray;
 }
